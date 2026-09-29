@@ -1,0 +1,379 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "DPS500",
+    "description": "DPS500 Differenzdruckschalter, 50-500Pa   Drucksensor-Typ Druckschalter Verbindungstyp Plastic Connection Piece for 5 mm (Internal) Hose Minimale Betriebs-Umgebungstemperatur -20 Max. Umgebungstemp. 85 Schaltdifferenz Fest 0 2mbar Genehmigungstyp DVGW Richtung der Aktion Druck steigend PNC-Selector Sensor-Wall Module Zurücksetzen Automatisch Medium Luft Sensortyp Druck Gehäuse-Schutzart IP54 Maximum Pressure 10mbar Druckbereich 0 5…5mbar  ",
+    "image": [
+      "https://www.blr24.de/images/product_images/info_images/DPS500.PNG",
+      "https://www.blr24.de/images/product_images/info_images/7.PNG",
+      "https://www.blr24.de/images/product_images/info_images/8.PNG",
+      "https://www.blr24.de/images/product_images/info_images/9.PNG"
+    ],
+    "url": "https://www.blr24.de/dps500.html",
+    "itemCondition": "NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "InStock",
+      "price": "52.47",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "http://schema.org/PriceSpecification",
+        "price": "52.47",
+        "priceCurrency": "EUR",
+        "valueAddedTaxIncluded": true
+      },
+      "url": "https://www.blr24.de/dps500.html",
+      "priceValidUntil": "2100-01-01 00:00:00"
+    },
+    "model": "dps500",
+    "sku": "dps500",
+    "sourceUrl": "https://www.blr24.de/dps500.html",
+    "sourceDate": "2026-09-29",
+    "localImage": "/assets/products/dps500.png"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "ML7425A6008",
+    "description": "Honeywell ML7425A6008 Ventilantrieb 600N, 0(2)..10V Stetiger Antrieb. Passend auf die Ventilreihen V5011, V5013, V5016A, V5025, V5049, V5050, V5328 und V5329. Schutzart: IP54 Stellungs-Anzeige: Skala am Joch Hilfsschalter: optional Wirkrichtung per Steckbrücke umkehrbar. Die Typen ML7425A/B sind in Kombination mit den Ventilen V5016A/V5025A/V5328A/V5049A bis 130°C nach DIN EN 14597 zugelassen. Versorgungsspannung: 24 Vac Stellkraft: 600N Ansteuerung: 0/2..10Vdc Regelhub: 20mm Stell.-Rückmeldung: 2..10Vdc Hub 20mm; Federrücklauf Spannungsausfall: St. fährt aus Hand-Verstellung: nein Laufzeit: 1.8min Federrücklauf: ja  ",
+    "image": [
+      "https://www.blr24.de/images/product_images/info_images/ML7425A6008.PNG",
+      "https://www.blr24.de/images/product_images/info_images/10.PNG",
+      "https://www.blr24.de/images/product_images/info_images/11.PNG"
+    ],
+    "url": "https://www.blr24.de/honeywell-ml7425a6008-ventilantrieb-600n-0-2-10v.html",
+    "itemCondition": "NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "InStock",
+      "price": "475.00",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "http://schema.org/PriceSpecification",
+        "price": "475.00",
+        "priceCurrency": "EUR",
+        "valueAddedTaxIncluded": true
+      },
+      "url": "https://www.blr24.de/honeywell-ml7425a6008-ventilantrieb-600n-0-2-10v.html",
+      "priceValidUntil": "2100-01-01 00:00:00"
+    },
+    "model": "ml7425a6008",
+    "sku": "ml7425a6008",
+    "sourceUrl": "https://www.blr24.de/honeywell-ml7425a6008-ventilantrieb-600n-0-2-10v.html",
+    "sourceDate": "2026-09-29",
+    "localImage": "/assets/products/ml7425a6008.png"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "CLNXEHSERIES26ND",
+    "description": "CLNXEHSERIES26ND EAGLEHAWK NX Niagara Anlagenregler mit 26 E/A   Marke CentraLine Anzahl der analogen Eingänge 0 Minimale Versand- und Lagertemperatur -4°F Anzahl der digitalen Eingänge 4 Maximale E/A-Erweiterung 26 Maximale Versand- und Lagertemperatur 70°C Art d. Klemmen Screw Terminals Verwaltungsanwendungen ARENA NX Gesamtbreite 4.33070866141732in Gesamttiefe 61mm Kommunikationstechnologie BACnet LON Modbus M-BUS KNX IP Fidelio SNMP C-Bus Befestigungstyp Wall: Panel back wall: Panel door: Panel rail: Sub-panels (fuse boxes): Cabinets Überwachungssoftware mit Standardsoftwaremodulen programmierbarvoltage alternating current Anzahl der analogen Ausgänge 4mA Anzahl der Universal-Eingänge 8 Anzahl der digitalen Ausgänge 8 Frequenz der Versorgungsspannung 50/60Hz Zulassungen EN 60730-1 EN 60730-2-9 UL60730 UL916 IEEEC 802.3 ANSI/ASHRAE 135-2012 Zur Verwendung mit HVAC and Non-HVAC Systems Anwendung Lighting security life safety in a building and across multiple buildings Produkttyp Controller Anzahl der digitalen Eingänge 4 Anwendung Lighting Security Life Safety In a Building and Across Multiple Buildings Kommunikationsprotokolle BACnet IP LonTalk and BACnet MS/TP ",
+    "image": [
+      "https://www.blr24.de/images/product_images/info_images/CLNXEHSERIES26ND.PNG"
+    ],
+    "url": "https://www.blr24.de/clnxehseries26nd.html",
+    "itemCondition": "NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "InStock",
+      "price": "1007.10",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "http://schema.org/PriceSpecification",
+        "price": "1007.10",
+        "priceCurrency": "EUR",
+        "valueAddedTaxIncluded": true
+      },
+      "url": "https://www.blr24.de/clnxehseries26nd.html",
+      "priceValidUntil": "2100-01-01 00:00:00"
+    },
+    "model": "clnxeh26",
+    "sku": "clnxeh26",
+    "sourceUrl": "https://www.blr24.de/clnxehseries26nd.html",
+    "sourceDate": "2026-09-29",
+    "localImage": "/assets/products/clnxehseries26nd.png"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "DPTE1000",
+    "description": "DPTE1000 Differenzdrucktransmitter, Druckbereich 0-1000/2500 Pa, 3-Leiter   Maximale Lagertemperatur 70 °C Zur Verwendung mit Luft und nicht brennbare und nicht aggressive Gase Gesamtbreite 85mm Marke Honeywell Gesamthöhe 101.5mm Minimale Lagertemperatur -10 °C Versorgungsspannung 18…30V DC Gehäuse-Schutzart IP54 mit Abdeckung Gesamttiefe 57.5mm Sensortyp Druck Inklusive 2 m Silikonschlauch 2 Verbindungsstücke mit Befestigungsschrauben 2 selbstschneidende Schrauben zur Befestigung des Gehäuses Befestigungstyp Bajonettanschluss Minimale Betriebsumgebungstemperatur 0°C Maximale Umgebungstemperatur bei Betrieb 50°C Anzeigen Nein Medium Luft Ausgangssignal 4..20 mA PNC-Selector Sensor-Wall Module Druckbereich 0…2500Pa Drucksensor-Typ Drucktransmitter Zertifikate und Standards EN61326 Anwendung HVAC Produkttyp Drucktransmitter ",
+    "image": [
+      "https://www.blr24.de/images/product_images/info_images/DPTE1000.PNG",
+      "https://www.blr24.de/images/product_images/info_images/7.PNG",
+      "https://www.blr24.de/images/product_images/info_images/9.PNG"
+    ],
+    "url": "https://www.blr24.de/dpte1000.html",
+    "itemCondition": "NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "InStock",
+      "price": "196.39",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "http://schema.org/PriceSpecification",
+        "price": "196.39",
+        "priceCurrency": "EUR",
+        "valueAddedTaxIncluded": true
+      },
+      "url": "https://www.blr24.de/dpte1000.html",
+      "priceValidUntil": "2100-01-01 00:00:00"
+    },
+    "model": "dpte1000",
+    "sku": "dpte1000",
+    "sourceUrl": "https://www.blr24.de/dpte1000.html",
+    "sourceDate": "2026-09-29",
+    "localImage": "/assets/products/dpte1000.png"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "CLIOP830A",
+    "description": "CLIOP830A Gemischtes Panel-Bus-E/A-Modul, steckbare Klemmen   Gesamthöhe 4.33070866141732in Normaler Eingangsstrom 180mA Anzahl der Ausgänge 8 Analog Maximale Versand- und Lagertemperatur 70°C Kommunikationsprotokoll Panel-Bus Eingangs- und Ausgangstyp Binärvoltage alternating current Minimale Betriebs-Umgebungstemperatur 32°F; 0°C Zulassungen UL916 (USL)byte; EN 60730-1byte; EN 60730-2-9byte; C22.2 (CNL)byte Minimale Versand- und Lagertemperatur -4°F Anzal der Eingaben 8 Analog: 12 Binary Gesamttiefe 93mm Befestigungstyp DIN-Schieneinch LED-Statusanzeige Ja Gesamtbreite 90mm Max. Umgebungstemp. 50°C; 122°F Alarm Current engineering parameter Versorgungsspannung 24V AC Typ Controller Produkttyp Mixed Panel Bus I/O Module Modul-Typ I/O Module Minimale Betriebsumgebungstemperatur 32°F Maximale Umgebungstemperatur bei Betrieb 50°C ",
+    "image": [
+      "https://www.blr24.de/images/product_images/info_images/CLIOP830A.PNG"
+    ],
+    "url": "https://www.blr24.de/cliop830a.html",
+    "itemCondition": "NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "OutOfStock",
+      "price": "996.22",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "http://schema.org/PriceSpecification",
+        "price": "996.22",
+        "priceCurrency": "EUR",
+        "valueAddedTaxIncluded": true
+      },
+      "url": "https://www.blr24.de/cliop830a.html",
+      "priceValidUntil": "2100-01-01 00:00:00"
+    },
+    "model": "cliop830a",
+    "sku": "cliop830a",
+    "sourceUrl": "https://www.blr24.de/cliop830a.html",
+    "sourceDate": "2026-09-29",
+    "localImage": "/assets/products/cliop830a.png"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "FT6961-60",
+    "description": "Honeywell FT6961-60 Frostschutzwächter, -10 bis +12 °C, Kappilarrohrlänge 1,8 m, autom. Rücksetzung FT69 Einstufige Schutzthermostate für Luftheizungs- und Klimaanlagen erfassen die Temperatur über die gesamte Länge der Kapillare. Bei der Montage im Freien ist zu beachten, dass das im Thermostat befindliche Flüssigkeitsreservoir ebenfalls temperatursensitiv und somit Bestandteil des aktiven Messsystems ist. Fällt die Temperatur eines beliebigen 30 cm langen Abschnitts derder Kapillare unter den eingestellten Sollwert, schaltet der Thermostat automatisch ab. Die Kapillare muss in ihrer gesamten Länge gleichmäßig über den gesamten Querschnitt der Luftleitung geschlungenQuerschnitt verlaufen. Wird die Kapillare beschädigt, schalten die Thermostate automatisch ab.Im Lieferumfang enthaltenes Zubehör:- Die 3-Meter- und die 6-Meter-Ausführung werden mit je 6 Montagehaltern geliefert.- Die 1,8-Meter-Ausführung wird mit 3 Halterungen geliefert.\"",
+    "image": [
+      "https://www.blr24.de/images/product_images/info_images/FT6961-60.PNG"
+    ],
+    "url": "https://www.blr24.de/ft6961-60.html",
+    "itemCondition": "NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "InStock",
+      "price": "100.25",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "http://schema.org/PriceSpecification",
+        "price": "100.25",
+        "priceCurrency": "EUR",
+        "valueAddedTaxIncluded": true
+      },
+      "url": "https://www.blr24.de/ft6961-60.html",
+      "priceValidUntil": "2100-01-01 00:00:00"
+    },
+    "model": "ft6961",
+    "sku": "ft6961",
+    "sourceUrl": "https://www.blr24.de/ft6961-60.html",
+    "sourceDate": "2026-09-29",
+    "localImage": "/assets/products/ft6961-60.png"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "N20230-SW2",
+    "description": "Honeywell N20230-SW2 Klappenantrieb 20/ 34Nm SmartAct Drehantrieb mit Synchronmotor für Steckmontage zur stetigen Regelung von Luftklappen. 3-Pkt.-Varianten auch für AUF/ZU-Ansteuerung geeignet.   Entriegelungstaste für manuelle Klappenbetätigung.  Für Zuluft-, Mischluft-, Abluftklappen, Lüftungsgeräte, Belüftungsklappen, Jalousieklappen und VVS-Boxen. Schutzart: IP54 Stellungs-Anzeige: Winkel-Skalen 0..90o, 90..0o Hilfsschalter-Funktion: spezielle Typen: UM (SPDT) 230V, 5(3)A Schaft: selbstzentrierend: 10..27mm rund, 10..18mm quadratisch Drehrichtung über Schalter wählbar Bei Spannungsausfall verbleibt der Antrieb in der jeweiligen Stellung Abnehmbare Anschlussbox mit Kabeleinführung M20x1,5 1/2\" NPT Lieferung mit komplettem Satz Montageteilen Stetige Antriebe: Ansteuerung auch auf 0(4)..20mA umschaltbar Stetige Antriebe: Autoadapt-Dipschalter; über diese Funktion kann die volle Spanne des Ansteuerungssignals für den verfügbaren Drehwinkel genutzt werden Hand-Verstellung: ja Klappenfläche: bis ca. 4m² Versorgungsspannung: 230 Vac Ansteuerung: 2/3-Pkt. Hilfsschalter: 2 Stell.-Rückmeldung: nein Laufzeit: 110s Drehmoment: 20Nm Klappengröße: 4m2  ",
+    "image": [
+      "https://www.blr24.de/images/product_images/info_images/N20230-SW2.PNG",
+      "https://www.blr24.de/images/product_images/info_images/1.PNG",
+      "https://www.blr24.de/images/product_images/info_images/2.PNG",
+      "https://www.blr24.de/images/product_images/info_images/3.PNG"
+    ],
+    "url": "https://www.blr24.de/n20230-sw2.html",
+    "itemCondition": "NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "InStock",
+      "price": "221.22",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "http://schema.org/PriceSpecification",
+        "price": "221.22",
+        "priceCurrency": "EUR",
+        "valueAddedTaxIncluded": true
+      },
+      "url": "https://www.blr24.de/n20230-sw2.html",
+      "priceValidUntil": "2100-01-01 00:00:00"
+    },
+    "model": "n20230",
+    "sku": "n20230",
+    "sourceUrl": "https://www.blr24.de/n20230-sw2.html",
+    "sourceDate": "2026-09-29",
+    "localImage": "/assets/products/n20230-sw2.png"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "ML7425B6007",
+    "description": "Honeywell ML7425B6007 Ventilantrieb 600N, 0(2)..10V Stetiger Antrieb. Passend auf die Ventilreihen V5011, V5013, V5016A, V5025, V5049, V5050, V5328 und V5329. Schutzart: IP54 Stellungs-Anzeige: Skala am Joch Hilfsschalter: optional Wirkrichtung per Steckbrücke umkehrbar. Die Typen ML7425A/B sind in Kombination mit den Ventilen V5016A/V5025A/V5328A/V5049A bis 130°C nach DIN EN 14597 zugelassen. Versorgungsspannung: 24 Vac Stellkraft: 600N Ansteuerung: 0/2..10Vdc Regelhub: 20mm Stell.-Rückmeldung: 2..10Vdc Hub 20mm; Federrücklauf Spannungsausfall: St. fährt ein Hand-Verstellung: nein Laufzeit: 1.8min Federrücklauf: ja  ",
+    "image": [
+      "https://www.blr24.de/images/product_images/info_images/ML7425B6007.PNG",
+      "https://www.blr24.de/images/product_images/info_images/10.PNG",
+      "https://www.blr24.de/images/product_images/info_images/11.PNG"
+    ],
+    "url": "https://www.blr24.de/ml7425b6007.html",
+    "itemCondition": "NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "InStock",
+      "price": "682.00",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "http://schema.org/PriceSpecification",
+        "price": "682.00",
+        "priceCurrency": "EUR",
+        "valueAddedTaxIncluded": true
+      },
+      "url": "https://www.blr24.de/ml7425b6007.html",
+      "priceValidUntil": "2100-01-01 00:00:00"
+    },
+    "model": "ml7425b6007",
+    "sku": "ml7425b6007",
+    "sourceUrl": "https://www.blr24.de/ml7425b6007.html",
+    "sourceDate": "2026-09-29",
+    "localImage": "/assets/products/ml7425b6007.png"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "XS821-22",
+    "description": "XS821-22 Klemmsockel Analogmodule   Produkttyp Socket Marke CentraLine Anwendung I/O Modules ",
+    "image": [
+      "https://www.blr24.de/images/product_images/info_images/xs821-22.PNG"
+    ],
+    "url": "https://www.blr24.de/xs821-22.html",
+    "itemCondition": "NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "InStock",
+      "price": "113.80",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "http://schema.org/PriceSpecification",
+        "price": "113.80",
+        "priceCurrency": "EUR",
+        "valueAddedTaxIncluded": true
+      },
+      "url": "https://www.blr24.de/xs821-22.html",
+      "priceValidUntil": "2100-01-01 00:00:00"
+    },
+    "model": "xs82122",
+    "sku": "xs82122",
+    "sourceUrl": "https://www.blr24.de/xs821-22.html",
+    "sourceDate": "2026-09-29",
+    "localImage": "/assets/products/xs821-22.png"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "AF20-B65",
+    "description": "AF20-B65 Außentemperaturfühler, NTC20, IP 65, -40…70°C Marke Honeywell Produkttyp Temperatursensor Gesamttiefe 44.5mm Minimal gemessene Temperatur -40°F Zur Verwendung mit Thermostaten Maximal gemessene Temperatur 70°C Max. Umgebungstemp. 70 Befestigungstyp Wall Outside Temperatursensor-Genauigkeit 0.2°C Gesamtbreite 82.2mm Gesamthöhe 68mm Minimale Betriebs-Umgebungstemperatur -40 Ausgang des Temperatursensors 20Kohm Befestigungstyp Außen Minimale Betriebsumgebungstemperatur -40°F Maximale Umgebungstemperatur bei Betrieb 70°C Gehäuse-Schutzart IP65 Enthalpiesensor-Schnittstelle Keine PNC-Selector Sensor-Wall Module Feuchtigkeitssensor-Schnittstelle Keine Sensortyp Temperatur Temperatur-Sensor-Schnittstelle 20 kOhm NTC Benutzersteuerungen Nein Anzeigen Nein ",
+    "image": [
+      "https://www.blr24.de/images/product_images/info_images/1%20(1).PNG"
+    ],
+    "url": "https://www.blr24.de/af20-b65.html",
+    "itemCondition": "NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "InStock",
+      "price": "40.77",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "http://schema.org/PriceSpecification",
+        "price": "40.77",
+        "priceCurrency": "EUR",
+        "valueAddedTaxIncluded": true
+      },
+      "url": "https://www.blr24.de/af20-b65.html",
+      "priceValidUntil": "2100-01-01 00:00:00"
+    },
+    "model": "af20b65",
+    "sku": "af20b65",
+    "sourceUrl": "https://www.blr24.de/af20-b65.html",
+    "sourceDate": "2026-09-29",
+    "localImage": "/assets/products/af20-b65.png"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "ML7421A3004",
+    "description": "Honeywell ML7421A3004 Ventilantrieb 1800N, 0(2)..10V/ 0(4)..20mA Stetiger Antrieb. Passend auf die Ventilreihen V5011, V5013, V5015, V5016, V5025, V5049, V5050, V5328 und V5329. Schutzart: IP54 Stellungs-Anzeige: Skala am Joch Stell.-Rückmeldung: 2..10Vdc Hilfsschalter: optional Versorgungsspannung: 24 Vac Stellkraft: 1800N Ansteuerung: 0/2..10Vdc; 0/4..20mA Hand-Verstellung: ja Hub 20mm Regelhub: 20mm Laufzeit: 1.9min  ",
+    "image": [
+      "https://www.blr24.de/images/product_images/info_images/ML7421A3004.PNG",
+      "https://www.blr24.de/images/product_images/info_images/14.PNG",
+      "https://www.blr24.de/images/product_images/info_images/15.PNG",
+      "https://www.blr24.de/images/product_images/info_images/16.PNG"
+    ],
+    "url": "https://www.blr24.de/ml7421a3004.html",
+    "itemCondition": "NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "InStock",
+      "price": "425.00",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "http://schema.org/PriceSpecification",
+        "price": "425.00",
+        "priceCurrency": "EUR",
+        "valueAddedTaxIncluded": true
+      },
+      "url": "https://www.blr24.de/ml7421a3004.html",
+      "priceValidUntil": "2100-01-01 00:00:00"
+    },
+    "model": "ml7421a3004",
+    "sku": "ml7421a3004",
+    "sourceUrl": "https://www.blr24.de/ml7421a3004.html",
+    "sourceDate": "2026-09-29",
+    "localImage": "/assets/products/ml7421a3004.png"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "ML6421A3005",
+    "description": "ML6421A3005 Ventilantrieb, 24V, Stell 1800 N, Hub 20mm, Handverstellung Hub: 20 mm Betriebsspannung: 24 V AC Eingangssignal Regelung: 3-Punkt Stellkraft: 1800 N Laufzeit: 1,9 Minuten Max. Temperatur: IP54 Schutzklasse für Spritzwasserschutz Handverstellung: Ja, mit manueller Bedienung Drehmoment: 1800 N Kompatibilität: Passend für verschiedene Ventilserien wie V5011, V5013, sowie Flanschventile der Serien V5015 bis V5329 ",
+    "image": [
+      "https://www.blr24.de/images/product_images/info_images/16.PNG",
+      "https://www.blr24.de/images/product_images/info_images/15.PNG",
+      "https://www.blr24.de/images/product_images/info_images/14.PNG"
+    ],
+    "url": "https://www.blr24.de/ml6421a3005.html",
+    "itemCondition": "NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "InStock",
+      "price": "553.18",
+      "priceCurrency": "EUR",
+      "priceSpecification": {
+        "@type": "http://schema.org/PriceSpecification",
+        "price": "553.18",
+        "priceCurrency": "EUR",
+        "valueAddedTaxIncluded": true
+      },
+      "url": "https://www.blr24.de/ml6421a3005.html",
+      "priceValidUntil": "2100-01-01 00:00:00"
+    },
+    "model": "ml6421a3005",
+    "sku": "ml6421a3005",
+    "sourceUrl": "https://www.blr24.de/ml6421a3005.html",
+    "sourceDate": "2026-09-29",
+    "localImage": "/assets/products/ml6421a3005.png"
+  }
+]
